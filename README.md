@@ -6,6 +6,7 @@ R is becoming the leading programming language and environment to assist data an
 This repository will be used for accessing different files related to the course.
 
 Dinner today
+(02/20/2022)
 1. Chicken Tikka Masala
 2. Rice
 3. Naan
