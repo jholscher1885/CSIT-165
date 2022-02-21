@@ -9,3 +9,5 @@ Dinner today
 1. Chicken Tikka Masala
 2. Rice
 3. Naan
+
+The chicken tikka masala was very creamy and just what I wanted.
