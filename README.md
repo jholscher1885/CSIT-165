@@ -13,4 +13,6 @@ Dinner today
 
 The chicken tikka masala was very creamy and just what I wanted.
 
+> Warning!
+
 > As the Princess Bride movie says, "Inconceivable!"
